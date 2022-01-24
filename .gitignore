@@ -1,6 +1,5 @@
-# IntelliJ
-.idea/
+.DS_Store
+.idea
 *.iml
-
-# Maven
-target/
+out
+/bin/
